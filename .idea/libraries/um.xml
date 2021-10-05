@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="um">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/genericra.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/nClient.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/nJMS.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
